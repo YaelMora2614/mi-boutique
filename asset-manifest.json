@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YaelMora2614/mi-boutique.git/static/css/main.afb0f457.css",
+    "main.js": "/YaelMora2614/mi-boutique.git/static/js/main.add25eac.js",
+    "index.html": "/YaelMora2614/mi-boutique.git/index.html",
+    "main.afb0f457.css.map": "/YaelMora2614/mi-boutique.git/static/css/main.afb0f457.css.map",
+    "main.add25eac.js.map": "/YaelMora2614/mi-boutique.git/static/js/main.add25eac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afb0f457.css",
+    "static/js/main.add25eac.js"
+  ]
+}
